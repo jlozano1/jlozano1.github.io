@@ -1,2 +1,2 @@
 # jlozano1.github.io
-Proyectos Certus publicados en githubpages
+Proyectos certua publicados en github pages
