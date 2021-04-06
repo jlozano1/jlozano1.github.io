@@ -1,2 +1,2 @@
 # jlozano1.github.io
-Proyectos Certus publicados en githubpages
+Certus Go - Bienvenidos 2020
